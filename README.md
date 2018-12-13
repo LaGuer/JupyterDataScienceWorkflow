@@ -1,4 +1,4 @@
-TOPIC: Jupyter Notebook Advanced Metering Infrastructure
+TOPIC: Jupyter Notebook in Agriculture & Advanced Metering Infrastructure
 
 # Jupyter Data Science Workflow
 
