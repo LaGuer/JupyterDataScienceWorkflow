@@ -1,11 +1,11 @@
-% name, y_value,  pow,   state,   num_p,   num_n
-BohrAtomDiameter 	1.72515 	10**3 	x 	10 	0
-Πpi-meson 	1.72155 	10**3 	+ 	10 	1
-Rydberg 	2.35457 	10**5 	x 	14 	2
-MeanIntermediaryBoson 	2.48733 	M 	+ 	14 	3
-HiggsBoson 	2.51872 	M 	o 	14 	4
-CosmicPhoton 	3.15010 	F 	x 	18 	5
-XBoson 	3.78446 	M 	+ 	22 	6
-HubbleRadius 	4.48545 	M 	x 	26 	7
-HOL   5.25420 	10**80 	+ 	30 	7
-BigPeriodicity 	4.81850 	10**80 	o 	30 	7
+% name, y1_value, y_value,  pow,   state,   num_p,   num_n
+BohrAtomDiameter 	274.2212 1.72515 	10**3 	x 	10 	0
+Πpi-meson 	268.607 1.72155 	10**3 	+ 	10 	1
+Rydberg 	75115.5 2.35457 	10**5 	x 	14 	2
+MeanIntermediaryBoson 167563.8	2.48733 	M 	+ 	14 	3
+HiggsBoson 	244961.05 2.51872 	M 	o 	14 	4
+CosmicPhoton 	1.3668e10 3.15010 	F 	x 	18 	5
+XBoson 1.301e19	3.78446 	M 	+ 	22 	6
+HubbleRadius 	3.3839e38 4.48545 	M 	x 	26 	7
+HOL   9.6565e82 5.25420 	10**80 	+ 	30 	7
+LargePeriodicity 	4.25e78 4.81850 	10**80 	o 	30 	7
